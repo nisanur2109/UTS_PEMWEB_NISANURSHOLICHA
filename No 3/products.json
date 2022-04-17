@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "gambar": "image/baju 1.jpeg",
+    "nama": "Gamis Lebaran",
+    "harga": "150.000",
+    "ukuran": "L",
+    "contact": "<p> Email:jualbeligamis.com </p> <p> Phone:0826598361 </p> <p>Address:Jl.Anggrek No.3 Mojokerto </p>"
+  },
+  {
+    "id": 2,
+    "gambar": "image/baju 2.jpeg",
+    "nama": "Gamis Lebaran",
+    "harga": "250.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:adminbajukekinian.com </p> <p> Phone:0816783902 </p> <p>Address:Jl.Kebomas No.5 Gresik </p>"
+  },
+  {
+    "id": 3,
+    "gambar": "image/baju 3.jpeg",
+    "nama": "Gamis Lebaran",
+    "harga": "200.000",
+    "ukuran": "L",
+    "contact": "<p> Email:officialgamis.com </p> <p> Phone:0859252949 </p> <p>Address:Jl.Kamboja No.12 Surabaya </p>"
+  },
+  {
+    "id": 4,
+    "gambar": "image/baju 4.jpeg",
+    "nama": "Gamis Brukat",
+    "harga": "300.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:admingamisbrukat.com </p> <p> Phone:08184603782 </p> <p>Address:Jl.Mawar No.4 Surabaya </p>"
+  },
+  {
+    "id": 5,
+    "gambar": "image/baju 5.jpeg",
+    "nama": "Gamis Brukat",
+    "harga": "250.000",
+    "ukuran": "M",
+    "contact": "<p> Email:diamorgrosir.com </p> <p> Phone:0838369163 </p> <p>Address:Jl.Tunjungan No.14 Surabaya </p>"
+  },
+  {
+    "id": 6,
+    "gambar": "image/baju 6.jpeg",
+    "nama": "Gamis Rayon",
+    "harga": "120.000",
+    "ukuran": "XL",
+    "contact": "<p> Email:najwaholshop.com </p> <p> Phone:0818360286 </p> <p>Address:Jl.Pondok Indah No.8 Mojokerto </p>"
+  }
+]
